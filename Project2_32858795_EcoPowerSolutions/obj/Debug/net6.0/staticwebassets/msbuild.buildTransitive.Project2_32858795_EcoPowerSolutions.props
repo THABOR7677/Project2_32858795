@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Project2_32858795_EcoPowerSolutions.props" />
+</Project>
