@@ -11755,11 +11755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\itstudent\\Source\\Repos\\Project2_32858795\\Project2_32858795_EcoPowerSolutions\\Project2_32858795_EcoPowerSolutions.csproj",
+      "projectUniqueName": "C:\\Users\\itstudent\\source\\repos\\32858795_Project2\\Project2_32858795_EcoPowerSolutions\\Project2_32858795_EcoPowerSolutions.csproj",
       "projectName": "Project2_32858795_EcoPowerSolutions",
-      "projectPath": "C:\\Users\\itstudent\\Source\\Repos\\Project2_32858795\\Project2_32858795_EcoPowerSolutions\\Project2_32858795_EcoPowerSolutions.csproj",
+      "projectPath": "C:\\Users\\itstudent\\source\\repos\\32858795_Project2\\Project2_32858795_EcoPowerSolutions\\Project2_32858795_EcoPowerSolutions.csproj",
       "packagesPath": "C:\\Users\\itstudent\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\itstudent\\Source\\Repos\\Project2_32858795\\Project2_32858795_EcoPowerSolutions\\obj\\",
+      "outputPath": "C:\\Users\\itstudent\\source\\repos\\32858795_Project2\\Project2_32858795_EcoPowerSolutions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\itstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
