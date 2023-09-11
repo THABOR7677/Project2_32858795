@@ -48,4 +48,9 @@ GET /products
 Headers:
   Authorization: Bearer YOUR_API_KEY
 ```
+## 5. Referencial List <a name="Referencial List"></a>
+1. pickett, W. and Anderson, R. (no date) Tutorial: Create a web API with ASP.NET CORE, Microsoft Learn. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&amp;tabs=visual-studio (Accessed: 11 September 2023). 
 
+## 8. Link to API on Azure:
+
+project232858795ecopowersolutions20230831155911.azurewebsites.net
